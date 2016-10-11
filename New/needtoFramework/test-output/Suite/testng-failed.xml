@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.stc.test.pbs.PBS53">
+        <methods>
+          <include name="PBS141" invocation-numbers="0"/>
+          <include name="PBS145" invocation-numbers="0"/>
+          <include name="PBS146" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.stc.test.pbs.PBS53 -->
+      <class name="com.stc.test.pbs.PBS52">
+        <methods>
+          <include name="PBS160" invocation-numbers="0"/>
+          <include name="PBS156" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.stc.test.pbs.PBS52 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

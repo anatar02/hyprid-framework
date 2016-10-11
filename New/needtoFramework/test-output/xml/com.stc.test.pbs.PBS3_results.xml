@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="14.580">
+  <properties />
+  
+  
+            <testcase name="PBS441" time="3.969" classname="com.stc.test.pbs.PBS3" />
+                <testcase name="PBS440" time="4.008" classname="com.stc.test.pbs.PBS3" />
+                <testcase name="PBS442" time="3.933" classname="com.stc.test.pbs.PBS3" />
+                <testcase name="PBS439" time="2.670" classname="com.stc.test.pbs.PBS3" />
+      
+</testsuite>

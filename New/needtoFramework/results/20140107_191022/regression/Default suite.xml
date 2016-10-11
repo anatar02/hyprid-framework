@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite endTime="20140107_191103" fail="0" name="Default suite" pass="1" skipped="0" startTime="20140107_191022" suiteStatus="Pass" tests="1">
+<test fail="0" name="Default test" pass="1" skipped="0" testStatus="Pass" tests="1">
+<testcase ellapsedtime="39050" name="PBS141" status="Pass">
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="Navigate(http://10.52.165.240:8080/pbs-admin/login)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(name=j_username,)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(name=j_username,admin)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(name=j_password,admin)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="Click(name=login)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="WaitForElementVisible(class=brand)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="Click(link=Providers)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="Click(link=Add Provider)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(name,Jing Swang)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(regNum,111-22-33333)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(address,2Fl, Sky Building, 50-3, Nonhyeon 1-dong, Gangnam-gu, Seoul, Korea 135-011)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(phone,080-5455-642)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(ceo,Kim)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(repName,Jin)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(repPhNum,080-5455-642)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(repMobNum,080-5455-642)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(remEmail,kim@gmail.com)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="SendKeys(notes,Data is valid)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="Click(name=save)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="Click(link=Providers)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="Click(link=View Provider List)"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="GetElementText(//span[@class='pagebanner'])"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="GetElementText(//span[@class='pagebanner'])"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="getWebElementArraySize( List of web elements found with given locator ) [//table[@id='providerList']/tbody/descendant::tr/td[text()='Jing Swang']] "/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="Click(//a[text()='Next'])"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="GetElementText(//span[@class='pagebanner'])"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="GetElementText(//span[@class='pagebanner'])"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="getWebElementArraySize( List of web elements found with given locator ) [//table[@id='providerList']/tbody/descendant::tr/td[text()='Jing Swang']] "/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="Click(//a[text()='Next'])"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="GetElementText(//span[@class='pagebanner'])"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="GetElementText(//span[@class='pagebanner'])"/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="getWebElementArraySize( List of web elements found with given locator ) [//table[@id='providerList']/tbody/descendant::tr/td[text()='Jing Swang']] "/>
+<teststep error="" screenshot="" stacktrace="" status="Pass" step="AssertTextPresent(Jing Swang) [Provider by name Jing Swang has been added and viewed in provider list]"/>
+</testcase>
+</test>
+</testsuite>

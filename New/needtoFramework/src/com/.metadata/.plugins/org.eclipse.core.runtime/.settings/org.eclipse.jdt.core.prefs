@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/Users/anatar02/Downloads/eclipse-standard-kepler-SR1-win32-x86_64/eclipse
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jre8/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/anatar02/Downloads/eclipse-standard-kepler-SR1-win32-x86_64/eclipse/plugins/org.junit_4.11.0.v201303080030/
+org.eclipse.jdt.core.classpathVariable.JUNIT_SRC_HOME=C\:/Users/anatar02/Downloads/eclipse-standard-kepler-SR1-win32-x86_64/eclipse/plugins/org.junit.source_4.11.0.v201303080030.jar
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled

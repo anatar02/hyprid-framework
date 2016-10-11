@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="29.827">
+  <properties />
+  
+  
+            <testcase name="PBS156" time="29.827" classname="com.stc.test.pbs.PBS52" />
+      
+</testsuite>

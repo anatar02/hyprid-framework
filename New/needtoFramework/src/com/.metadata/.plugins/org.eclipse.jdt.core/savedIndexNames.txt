@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\Users\anatar02\Desktop\Framework\Framework\GSFramework\src\com\.metadata\.plugins\org.eclipse.jdt.core
+1774204191.index
